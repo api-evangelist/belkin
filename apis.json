@@ -1,0 +1,67 @@
+{
+    "name": "Belkin",
+    "description": "Belkin makes people-inspired products and solutions for iPhone, iWatch, IPad, Kindle, Samsung & Networking devices including a wide range of USB-C, Type C, USB, Lightning, Micro-USB, and other cables.",
+    "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/screen-capture-api\/1861-belkin.jpg",
+    "tags": [
+        "api not found",
+        "have api",
+        "internet of things",
+        "isp",
+        "networks"
+    ],
+    "created": "2019-12-19",
+    "modified": "2019-12-19",
+    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/belkin\/master\/apis.json",
+    "specificationVersion": "0.14",
+    "apis": [
+        {
+            "name": "Belkin",
+            "description": null,
+            "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/screen-capture-api\/1861-belkin.jpg",
+            "humanURL": "http:\/\/www.belkin.com\/us\/wemo-switch",
+            "baseURL": "",
+            "tags": [],
+            "properties": [
+                {
+                    "type": "x-openapi",
+                    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/1forge\/master\/belkin-openapi.json"
+                }
+            ]
+        }
+    ],
+    "include": [],
+    "x-common": [
+        {
+            "type": "Crunchbase",
+            "url": "http:\/\/www.crunchbase.com\/company\/belkin-international"
+        },
+        {
+            "type": "Crunchbase",
+            "url": "https:\/\/crunchbase.com\/organization\/belkin-international"
+        },
+        {
+            "type": "Email",
+            "url": "privacy@belkin.com"
+        },
+        {
+            "type": "Email",
+            "url": "privacy.sg@belkin.com"
+        },
+        {
+            "type": "Email",
+            "url": "japansupport@belkin.com"
+        },
+        {
+            "type": "Email",
+            "url": "koreasupport@belkin.com"
+        },
+        {
+            "type": "Twitter",
+            "url": "https:\/\/twitter.com\/belkin"
+        },
+        {
+            "type": "Website",
+            "url": "http:\/\/www.belkin.com\/us\/wemo-switch"
+        }
+    ]
+}
